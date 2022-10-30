@@ -1,4 +1,4 @@
-I've just started developing a multiplayer game and I thought it would be a great idea to create a web server at home, to use at least during the development of the project.
+I've just started developing a multiplayer game and I thought it would be a great idea to create a web server at home to use at least during the development of the project.
 
 I don't need anything too powerful since I only want to test the Server App that is going to handle the back-end of my game. Since I had a Raspberry Pi 4 laying around that's going to be the computer I use as a server.
 
