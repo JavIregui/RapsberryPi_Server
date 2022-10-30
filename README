@@ -3,3 +3,5 @@ I've just started developing a multiplayer game and I thought it would be a grea
 I don't need anything too powerful since I only want to test the Server App that is going to handle the back-end of my game. Since I had a Raspberry Pi 4 laying around that's going to be the computer I use as a server.
 
 In this repository I'll add instructions, tips and everything I learn along the way so this is a work in progress.
+
+Most of the contet in this repository will be included in a GitHub Wiki.
